@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/darrylstodos/static/css/main.0da1fee4.chunk.css",
+    "main.js": "/darrylstodos/static/js/main.2e031c70.chunk.js",
+    "main.js.map": "/darrylstodos/static/js/main.2e031c70.chunk.js.map",
+    "runtime-main.js": "/darrylstodos/static/js/runtime-main.9a22ad3c.js",
+    "runtime-main.js.map": "/darrylstodos/static/js/runtime-main.9a22ad3c.js.map",
+    "static/js/2.52a686e7.chunk.js": "/darrylstodos/static/js/2.52a686e7.chunk.js",
+    "static/js/2.52a686e7.chunk.js.map": "/darrylstodos/static/js/2.52a686e7.chunk.js.map",
+    "index.html": "/darrylstodos/index.html",
+    "precache-manifest.b4648cbd9e4eb534e78f9e868c60f932.js": "/darrylstodos/precache-manifest.b4648cbd9e4eb534e78f9e868c60f932.js",
+    "service-worker.js": "/darrylstodos/service-worker.js",
+    "static/css/main.0da1fee4.chunk.css.map": "/darrylstodos/static/css/main.0da1fee4.chunk.css.map",
+    "static/js/2.52a686e7.chunk.js.LICENSE.txt": "/darrylstodos/static/js/2.52a686e7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/darrylstodos/static/media/Quicksand-Regular.316c2321.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a22ad3c.js",
+    "static/js/2.52a686e7.chunk.js",
+    "static/css/main.0da1fee4.chunk.css",
+    "static/js/main.2e031c70.chunk.js"
+  ]
+}
